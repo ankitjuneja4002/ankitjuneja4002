@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitjuneja4002
 - 👀 I’m interested in AI and Web development
 - 🌱 I’m currently learning machine learning using Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me : -  https://www.linkedin.com/in/ankit-juneja-1397721b9/
                            ankitjuneja4002@gmail.com
 
