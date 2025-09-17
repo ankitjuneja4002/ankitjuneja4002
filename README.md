@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitjuneja4002
-- 👀 I’m interested in Software development and Web development.
+- 👀 I’m interested in Software and Web development.
 - 🌱 I’m currently learning Backend Development.
 - 🤝 I’m looking to collaborate on real world projects :)
 - 📫 How to reach me : -  (https://www.linkedin.com/in/ankit-juneja410/)
